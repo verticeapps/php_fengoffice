@@ -1,3 +1,8 @@
+###To deploy your App
+[![img](https://s3-ap-southeast-1.amazonaws.com/megampub/images/megamafrica/DEPLOY-TO-MEGAM-AFRICA2.png)](https://console.megamafrica.com)
+
+
+
 	About Feng Office 3.2.2.1
 	================================
 	
@@ -101,10 +106,7 @@
 	- Gelsheet - http://www.gelsheet.org
 	
 	
-###To deploy your App 
-[![img](https://s3-ap-southeast-1.amazonaws.com/megampub/images/megamafrica/DEPLOY-TO-MEGAM-AFRICA2.png)](https://console.megamafrica.com)
 
-	Changelog
 	=========
 	
 	Since 3.2.2
