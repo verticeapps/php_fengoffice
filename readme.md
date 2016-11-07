@@ -1,6 +1,8 @@
 ###To deploy your App
-[![img](https://s3-ap-southeast-1.amazonaws.com/megampub/images/megamafrica/DEPLOY-TO-MEGAM-AFRICA2.png)](https://console.megamafrica.com)
 
+<a href="https://docs.megam.io" target="_blank">
+<img src="https://s3-ap-southeast-1.amazonaws.com/megampub/images/vertice/DEPLOY-TO-MEGAM-VERTICE2.png" alt="wordpres button" />
+</a>
 
 
 	About Feng Office 3.2.2.1
@@ -17,7 +19,6 @@
 	
 	Contact the Feng Office team at:
 		* contact@fengoffice.com
-	
 	
 	System requirements
 	===================
@@ -106,7 +107,7 @@
 	- Gelsheet - http://www.gelsheet.org
 	
 	
-
+	Changelog
 	=========
 	
 	Since 3.2.2
@@ -2114,3 +2115,10 @@
 	feature: PDF Quick View - View uploaded PDF's
 	usability: Default Theme improved
 	usability: Customizable User Interface
+	
+###To deploy your App
+
+<a href="https://docs.megam.io" target="_blank">
+<img src="https://s3-ap-southeast-1.amazonaws.com/megampub/images/vertice/DEPLOY-TO-MEGAM-VERTICE2.png" alt="wordpres button" />
+</a>
+
